@@ -4,6 +4,7 @@ Tenho 18 anos e sou uma entusiasta da programação. Minha jornada no mundo da i
 Ou seja, atualmente, estou no meu primeiro ano da graduação em Ciência da Computação, pronta para aprofundar meus conhecimentos e enfrentar novos desafios!
 
 Minhas Habilidades e experiências
+
 Linguagens de Programação (Básicas):
 Java e C++
 Desenvolvimento Web:
