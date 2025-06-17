@@ -5,14 +5,11 @@ Ou seja, atualmente, estou no meu primeiro ano da graduação em Ciência da Com
 
 Minhas Habilidades e experiências
 Linguagens de Programação (Básicas):
-Java
-C++
+Java e C++
 Desenvolvimento Web:
-HTML
-CSS
+HTML e CSS
 Banco de Dados:
-SQL (básico)
-Noções de Banco de Dados
+SQL (básico) e noções de Banco de Dados
 Projetos:
 Participei de um projeto de extensão onde trabalhamos no desenvolvimento de um site gerenciador de dados para um aplicativo. Essa foi uma experiência prática valiosa no desenvolvimento web e gerenciamento de informações.
 Conecte-se Comigo
