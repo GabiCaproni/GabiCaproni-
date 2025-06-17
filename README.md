@@ -7,10 +7,13 @@ Minhas Habilidades e experiências
 
 Linguagens de Programação (Básicas):
 Java e C++
+
 Desenvolvimento Web:
 HTML e CSS
+
 Banco de Dados:
 SQL (básico) e noções de Banco de Dados
+
 Projetos:
 Participei de um projeto de extensão onde trabalhamos no desenvolvimento de um site gerenciador de dados para um aplicativo. Essa foi uma experiência prática valiosa no desenvolvimento web e gerenciamento de informações.
 Conecte-se Comigo
