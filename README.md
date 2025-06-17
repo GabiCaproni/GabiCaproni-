@@ -17,8 +17,7 @@ SQL (básico) e noções de Banco de Dados
 Projetos:
 Participei de um projeto de extensão onde trabalhamos no desenvolvimento de um site gerenciador de dados para um aplicativo. Essa foi uma experiência prática valiosa no desenvolvimento web e gerenciamento de informações.
 
-Conecte-se Comigo
-Estou sempre aberta a novas conexões e oportunidades para aprender e colaborar!
+Conecte-se comigo, estou sempre aberta a novas conexões e oportunidades para aprender e colaborar!
 
 LinkedIn: Gabriella Caproni (www.linkedin.com/in/gabriella-caproni-4a8b61354)
 
